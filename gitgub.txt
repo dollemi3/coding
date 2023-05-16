@@ -1,0 +1,4 @@
+https://tagilog.tistory.com/377
+github 기본 설정 참고
+코드 완성후
+git push origin master
